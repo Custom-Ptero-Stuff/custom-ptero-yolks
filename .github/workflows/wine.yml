@@ -41,4 +41,4 @@ jobs:
           platforms: linux/amd64
           push: true
           tags: |
-            ghcr.io/Custom-Ptero-Stuff/custom-ptero-yolks:${{ matrix.tag }}
+            ghcr.io/custom-ptero-stuff/custom-ptero-yolks:${{ matrix.tag }}
